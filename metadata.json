@@ -8,7 +8,7 @@
   "project_page": "https://github.com/ncorrare/windowstime",
   "issues_url": "https://github.com/ncorrare/windowstime/issues",
   "dependencies": [
-    {"name":"puppetlabs-stdlib","version_requirement":"4.x"},
+    {"name":"puppetlabs-stdlib","version_requirement":">= 4.0.0"},
     {"name":"puppetlabs-registry","version_requirement":"2.x"}
   ],
   "operatingsystem_support": [
